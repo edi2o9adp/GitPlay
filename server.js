@@ -7,3 +7,5 @@ result = x + y;
 console.log(result);
 
 console.log("asd");
+
+let a = 23;
